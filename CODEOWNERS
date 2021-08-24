@@ -1,0 +1,4 @@
+# <directory or file filter> <user or group>
+
+# Examples:
+README.md @puperfused
